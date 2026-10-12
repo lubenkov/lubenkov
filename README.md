@@ -39,7 +39,6 @@ to a store API with payments.</em>
 **Machine learning & data**&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -110,7 +109,7 @@ collisions, `Map` draws the field, `Point` is a coordinate pair.
 <div align="center">
 
 <a href="https://leetcode.com/u/eragon369/">
-  <img src="https://leetcard.jacoblin.cool/eragon369?theme=light,dark&font=Karma&hide=ranking&border=0&radius=8&cache=300" alt="LeetCode: 106 tasks solved — 77 easy, 26 medium, 3 hard" />
+  <img src="https://leetcard.jacoblin.cool/eragon369?theme=light,dark&font=Karma&hide=ranking&border=1&radius=8&cache=300" alt="Live LeetCode statistics for eragon369" />
 </a>
 
 </div>
@@ -148,7 +147,6 @@ collisions, `Map` draws the field, `Point` is a coordinate pair.
 - **[console_snake](https://github.com/lubenkov/console_snake)** — консольная «Змейка» как учебный
   проект: классы `Snake`, `Map`, `Point`. 
 
-**LeetCode** — 106 решённых задач (77 easy / 26 medium / 3 hard); карточка выше обновляется
-автоматически, [профиль](https://leetcode.com/u/eragon369/).
+**LeetCode** — 100+ решённых задач; карточка выше обновляется автоматически, [профиль](https://leetcode.com/u/eragon369/).
 
 </details>
