@@ -29,6 +29,14 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+**Frontend**&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
 **Desktop & graphics**&nbsp;
 ![Qt 5.12](https://img.shields.io/badge/Qt%205.12-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![SFML 2.5](https://img.shields.io/badge/SFML%202.5-8CC445?style=flat-square)
@@ -52,6 +60,7 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -76,10 +85,11 @@
 **Стек**
 
 - **Языки:** C, C++, TypeScript, JavaScript, Python, SQL
-- **Backend:** NestJS, Node.js, MySQL, Sequelize, REST API, JWT / OAuth 2.0, Stripe, Swagger, Jest
+- **Бэкенд:** NestJS, Node.js, MySQL, Sequelize, REST API, JWT / OAuth 2.0, Stripe, Swagger, Jest
+- **Фронтенд:** React, Vite, Tailwind CSS, React Router, TanStack Query, Vitest
 - **Desktop и графика:** Qt 5.12, SFML 2.5, Eigen, Arduino
 - **Машинное обучение и данные:** PyTorch, Hugging Face, NumPy, pandas, SciPy, Matplotlib, Jupyter
-- **Инструменты:** Git, GitHub Actions, ESLint, Prettier, Visual Studio, Linux
+- **Инструменты:** Git, GitHub Actions, ESLint, Prettier, Visual Studio, Linux, Vercel
 
 **Репозитории**
 
